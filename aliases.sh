@@ -2,5 +2,4 @@
 
 alias c='clear'
 alias ipe='curl ipinfo.io/ip'
-alias init='git init'
 alias push-github='git push -u origin master'
